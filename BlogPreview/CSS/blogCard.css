@@ -1,0 +1,14 @@
+
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 24px 24px;
+    width: 384px;
+    height: 522px;
+    background-color: #FFFFFF;
+}
+
+.courseDescription{
+    color: #6B6B6B;
+}

@@ -16,6 +16,8 @@ I’m using the official Figma design files to match the required colors, spacin
 
 ### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/BlogPreview/)
 
+## This challenge is optional, I'll work on it later
+
 ### [Space Tourism Multi‑page Website](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
 
 ### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/SpaceTourismSite/)
