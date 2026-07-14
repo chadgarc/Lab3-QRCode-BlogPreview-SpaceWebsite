@@ -8,13 +8,16 @@ I’m using the official Figma design files to match the required colors, spacin
 
 ## Included Challenges
 
-### QR Code Component  
-Challenge: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H  
+### [QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-### Blog Preview Card  
-Challenge: https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS  
+### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/QRcode/)
 
-### Space Tourism Multi‑page Website  
-Challenge: https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3  
+### [Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+
+### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/BlogPreview/)
+
+### [Space Tourism Multi‑page Website](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
+
+### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/SpaceTousismSite/)
 
 More improvements, documentation, and project details will be added later.
