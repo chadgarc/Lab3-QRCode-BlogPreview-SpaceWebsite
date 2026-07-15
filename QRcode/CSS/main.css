@@ -7,6 +7,16 @@
     --Weight2: 700;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;700&family=Outfit:wght@100..900&display=swap');
+
+.outfit-bold {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
 .attribution { 
     font-size: 0.6875rem; 
     text-align: center; 

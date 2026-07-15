@@ -15,38 +15,38 @@
 </head>
 <body>
 
-  <main>
+  <main aria-label="Blog article preview">
 
-      <img class="main-image" src="./assets/images/illustration-article.svg" alt="article's illustration">
+    <img class="main-image" src="./assets/images/illustration-article.svg" alt="Illustration representing the article topic">
 
-    <section class="BlogContent">
+    <section class="BlogContent" role="article" aria-labelledby="course-title">
       
-      <article class="learning-status">
+      <article class="learning-status" role="note" aria-label="Learning category">
         Learning
       </article>
       
-      <article class="publication-date">
+      <article class="publication-date" aria-label="Publication date">
         Published 21 Dec 2023
       </article>
 
-      <h2 class="course-title">
+      <h2 id="course-title" class="course-title">
         HTML & CSS foundations
       </h2>
       
       <article>
-        <p class="courseDescription">
+        <p class="courseDescription" aria-label="Article description">
           These languages are the backbone of every website, defining structure,
           content, and presentation.
         </p>
 
       </article>
 
-      <div class="instructor-section">
+      <div class="instructor-section" role="group" aria-label="Article author">
 
         <img class="instructor-photo" src="./assets/images/image-avatar.webp" 
             alt="Greg Hooper's photo">
         
-        <p>
+        <p aria-label="Author name">
           Greg Hooper
         </p>
       </div>
