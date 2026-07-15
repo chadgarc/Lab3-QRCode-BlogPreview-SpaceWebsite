@@ -10,11 +10,11 @@ I use the official Figma design files to match colors, spacing, typography, and 
 
 ### [QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/QRcode/)
+### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview/QRcode/)
 
 ### [Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
-### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/BlogPreview/)
+### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview/BlogPreview/)
 
 ---
 
