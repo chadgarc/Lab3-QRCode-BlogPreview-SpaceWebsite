@@ -2,9 +2,9 @@
 # Frontend Mentor Challenge Solutions
 
 This repository contains my solutions for three Frontend Mentor challenges.  
-I'm completing these projects both for personal practice and as part of Per Scholas lab workshops.
+I’m building these projects both for personal practice and as part of Per Scholas lab workshops.
 
-I’m using the official Figma design files to match the required colors, spacing, and styles, along with the assets provided by Frontend Mentor.
+I use the official Figma design files to match colors, spacing, typography, and layout as accurately as possible, along with the assets provided by Frontend Mentor.
 
 ## Included Challenges
 
@@ -16,10 +16,35 @@ I’m using the official Figma design files to match the required colors, spacin
 
 ### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/BlogPreview/)
 
-## This challenge is optional, I'll work on it later
+## 🛠️ Challenge In Progress - Optional for classes
 
 ### [Space Tourism Multi‑page Website](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
 
 ### [My Solution](https://chadgarc.github.io/Lab3-QRCode-BlogPreview-SpaceWebsite/SpaceTourismSite/)
 
-More improvements, documentation, and project details will be added later.
+---
+
+## 🧰 Tools & Technologies Used
+
+- **HTML5** for semantic structure  
+- **CSS3** (Flexbox, Grid, responsive design)  
+- **Figma** for inspecting spacing, typography, and layout details  
+- **Git & GitHub Pages** for version control and deployment  
+- **VS Code** as the main development environment  
+- **Google Fonts** for typography  
+- **ARIA attributes** to improve accessibility and screen‑reader support  
+
+---
+
+## 🤖 Use of AI Assistance
+
+I used AI (Microsoft Copilot) as a **technical assistant**, mainly to:
+
+- Clarify HTML, CSS, and accessibility concepts  
+- Understand specific behaviors (flexbox, spacing, typography, ARIA)  
+- Review my code and identify inconsistencies  
+- Get explanations and best‑practice guidance  
+
+**Important:**  
+I did not request or use AI‑generated component code.  
+All implementation was written manually — AI served only as a guide, not as a code generator.
