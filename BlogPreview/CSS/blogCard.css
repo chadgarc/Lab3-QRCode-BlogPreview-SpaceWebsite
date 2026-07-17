@@ -1,53 +1,23 @@
 
 /* This is my main box */
 main{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
     background-color: #FFFFFF;
-    padding: 1.5rem 1.5rem;
-    width: 21rem;
-    height: 31rem;
-    gap: 1.5rem;
-    border: 0.0625rem solid var(--dark-gray-color);
-    border-radius: 1.25rem;
+    width: 23rem;
     box-shadow: 0.625rem 0.625rem var(--dark-gray-color);
 }
 
-/* here is the box where the whole content is located */
-.BlogContent{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    gap: 1.3rem;
-}
-
-.main-image{
-    object-fit: cover;
-    width: 100%;
-    border-radius: 1.25rem;
-}
-
 .learning-status{
-    display: flex;
-    flex-direction: row;
-    border-radius: 0.25rem;
-    justify-content: center;
-    align-items: center;
     background-color: var(--yellow-color);
     width: 6.3rem;
     height: 1.8rem;
-    font-weight: 800;
-    font-size: 1rem;
 }
 
 .publication-date{
-    font-size: 1.14rem;
+    font-size: .9rem;
 }
 
 .course-title{
-    margin: 0;
-    font-size: 1.65rem;
+    font-size: 1.5rem;
 }
 
 .course-title:hover{
@@ -57,19 +27,9 @@ main{
 
 .courseDescription{
     color: var(--gray-color);
-    margin: 0;
-    font-size: 1.2rem;
-}
-
-.instructor-section{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: .95rem;
-    font-weight: 800;
+    font-size: .95rem;
 }
 
 .instructor-photo{
     height: 2rem;
-    width: 2rem;
 }
