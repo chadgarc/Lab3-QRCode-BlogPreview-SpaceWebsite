@@ -1,53 +1,16 @@
 
 /* This is my main box */
 main{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
     background-color: white;
-    padding: 1rem 1.5rem 3.5rem 1.5rem;
     width: 21rem;
-    height: 31rem;
-    gap: 1.5rem;
-    border: 0.0625rem solid var(--dark-gray-color);
-    border-radius: 1.25rem;
-    box-shadow: 0.625rem 0.625rem var(--dark-gray-color);
-}
-
-/* here is the box where the whole content is located */
-.content{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    gap: 1.3rem;
-}
-
-.main-image{
-    object-fit: cover;
-    width: 100%;
-    border-radius: 1.25rem;
 }
 
 .title{
-    margin: 0;
-    font-size: 1.5rem;
-    font-family: 'Outfit', sans-serif;
-    font-weight: 700;
     color: var(--Slate-dark);
-    padding-left: .85rem;
-    padding-right: .85rem;
-    text-align: center;
-
+    font-size: 1.3rem;
 }
 
 .description{
     color: var(--Slate-med);
-    margin: 0;
-    font-family: 'Outfit', sans-serif;
-    font-weight: 400;
-    font-size: 1.15rem;
     letter-spacing: .013rem;
-    padding-left: .85rem;
-    padding-right: .85rem;
-    text-align: center;
 }
