@@ -3,6 +3,7 @@
 main{
     background-color: #FFFFFF;
     width: 23rem;
+    height: 33rem;
     box-shadow: 0.625rem 0.625rem var(--dark-gray-color);
 }
 
