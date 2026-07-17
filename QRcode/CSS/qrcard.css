@@ -1,14 +1,6 @@
 
-/* This is my main box */
-main{
-    background-color: white;
-    width: 21rem;
-    height: 32rem;
-}
-
 .title{
     color: var(--Slate-dark);
-    font-size: 1.3rem;
 }
 
 .description{
