@@ -2,23 +2,11 @@
 /* This is my main box */
 main{
     background-color: #FFFFFF;
-    width: 23rem;
-    height: 33rem;
     box-shadow: 0.625rem 0.625rem var(--dark-gray-color);
 }
 
 .learning-status{
     background-color: var(--yellow-color);
-    width: 6.3rem;
-    height: 1.8rem;
-}
-
-.publication-date{
-    font-size: .9rem;
-}
-
-.course-title{
-    font-size: 1.5rem;
 }
 
 .course-title:hover{
@@ -28,7 +16,6 @@ main{
 
 .courseDescription{
     color: var(--gray-color);
-    font-size: .95rem;
 }
 
 .instructor-photo{

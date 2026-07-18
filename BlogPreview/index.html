@@ -26,6 +26,8 @@
               flex-column
               justify-content-center
               p-4
+              col-6
+              mx-auto
               gap-4
               rounded-4
               "
@@ -46,23 +48,40 @@
               align-items-center
               fw-bold
               rounded
+              col-3
+              py-1
+              small
               learning-status" 
         role="note" aria-label="Learning category">
-        Learning
+        <p class="small
+                  my-0">
+          Learning
+        </p>
       </article>
       
-      <article class="publication-date" 
+      <!-- If I create another container inside one container, small class
+      will reduce the size of the text again, this works in this case cuz the 
+      text is reaaly small, more that fs-* class can handle-->
+      
+      <article >
+        <p class="small
+                  m-0
+                  publication-date" 
         aria-label="Publication date">
-        Published 21 Dec 2023
+          Published 21 Dec 2023
+        </p >
       </article>
+      
 
       <h2 id="course-title" class="m-0
+                                  fs-4
                                   course-title">
         HTML & CSS foundations
       </h2>
       
       <article>
-        <p class="courseDescription" aria-label="Article description">
+        <p class="fs-6
+                  courseDescription" aria-label="Article description">
           These languages are the backbone of every website, defining structure,
           content, and presentation.
         </p>
@@ -79,7 +98,8 @@
             alt="Greg Hooper's photo">
         
         <p class="d-flex 
-                m-0 
+                m-0
+                small
                 align-items-center" 
             aria-label="Author name">
           Greg Hooper
